@@ -1,0 +1,24 @@
+.unAuthorized{
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 40px;
+    border: 1px solid #c8c8c8; 
+    text-align: center;   
+}
+
+.unAuthorized .title {
+    background-color: crimson;
+    font-size: 50px;
+    letter-spacing: 10px;
+    margin-bottom: 10px;
+}
+
+.unAuthorized .desc {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.unAuthorized{
+    min-width: 160px;
+}
